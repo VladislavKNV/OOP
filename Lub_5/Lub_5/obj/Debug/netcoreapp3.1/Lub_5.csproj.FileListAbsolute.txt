@@ -1,0 +1,13 @@
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\bin\Debug\netcoreapp3.1\Lub_5.exe
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\bin\Debug\netcoreapp3.1\Lub_5.deps.json
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\bin\Debug\netcoreapp3.1\Lub_5.runtimeconfig.json
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\bin\Debug\netcoreapp3.1\Lub_5.runtimeconfig.dev.json
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\bin\Debug\netcoreapp3.1\Lub_5.dll
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\bin\Debug\netcoreapp3.1\Lub_5.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.dll
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\OOP\Lub_5\Lub_5\obj\Debug\netcoreapp3.1\Lub_5.genruntimeconfig.cache
